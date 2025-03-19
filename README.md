@@ -23,6 +23,6 @@ Este es un pequeño proyecto en **HTML, CSS y JavaScript** que permite realizar 
 - `app.js` → Funcionalidad en JavaScript.
 
 ## Autor
-Desarrollado por Nicolás Rivera
-Uso de IA para corrección de errores
+- Desarrollado por Nicolás Rivera
+- Uso de IA para corrección de errores
 
